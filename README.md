@@ -1,4 +1,5 @@
 # Backroads App
+[![Netlify Status](https://api.netlify.com/api/v1/badges/c21949cc-f663-4c28-a595-4bef199ec13c/deploy-status)](https://app.netlify.com/sites/bjgomes-backroads/deploys)
 
 [Working Application - Deployed](https://backroads-app.netlify.app/)
 
